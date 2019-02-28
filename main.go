@@ -5,8 +5,6 @@ import (
 	"fmt"
 	"io/ioutil"
 	"os"
-
-	_ "github.com/mattn/go-sqlite3"
 )
 
 type school struct {

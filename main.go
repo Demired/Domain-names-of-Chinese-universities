@@ -59,16 +59,19 @@ func txt2json() {
 	var items []item
 	var str = strings.Split(string(b), "\n")
 	for _, s := range str {
-		l := strings.Split(s, "	")
-		if len(l) == 3 {
+		l := strings.Split(s, "\t")
+		if len(l) > 2 {
 			items = append(items, item{
-				Tag:    fmt.Sprintf(l[0][4:]),
-				Name:   fmt.Sprintf(l[1][5:]),
-				Domain: strings.Trim(fmt.Sprintf(l[2][7:]), " "),
+				Tag:    strings.Trim(strings.TrimLeft(l[0], "Tag:"), " "),
+				Name:   strings.Trim(strings.TrimLeft(l[1], "Name:"), " "),
+				Domain: strings.Trim(strings.TrimLeft(l[2], "Domain:"), " "),
 			})
+		} else {
+			fmt.Printf("Invalid format %s", s)
 		}
 	}
 	sj, _ := json.Marshal(&items)
 	ioutil.WriteFile(*jPath, []byte(sj), 0644)
+	fmt.Printf("本库共收录%d所高校\n", len(items))
 	os.Exit(0)
 }

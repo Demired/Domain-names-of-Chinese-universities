@@ -52,13 +52,13 @@ Tag:山西	Name:山西大学商务学院	Domain:www.sdsy.sxu.edu.cn
 Tag:山西	Name:太原理工大学现代科技学院	Domain:www.xdkj.tyut.edu.cn
 Tag:山西	Name:山西农业大学信息学院	Domain:www.cisau.com.cn
 Tag:山西	Name:山西师范大学现代文理学院	Domain:www.xdwl-sxnu.cn
-Tag:山西	Name:中北大学信息商务学院	Domain:xxsw.nuc.edu.cn
+Tag:山西	Name:中北大学信息商务学院	Domain:www.ibcnuc.edu.cn
 Tag:山西	Name:太原科技大学华科学院	Domain:www.kdhk.cn
 Tag:山西	Name:山西医科大学晋祠学院	Domain:www.sxmu-jcc.com
 Tag:山西	Name:山西财经大学华商学院	Domain:www.schsxy.com
 Tag:江苏	Name:南通市工人业余大学	Domain:www.ntyygd.com
 Tag:江苏	Name:江苏开放大学	Domain:jx.jsou.cn
-Tag:江苏	Name:江苏省省级机关管理干部学院	Domain:www.jsggy.net
+Tag:江苏	Name:江苏省省级机关管理干部学院	Domain:jsggy.sdx.js.cn
 Tag:江苏	Name:南京市广播电视大学	Domain:www.njou.edu.cn
 Tag:江苏	Name:江苏省青年管理干部学院	Domain:qgy.sdx.js.cn
 Tag:西藏	Name:西藏大学	Domain:www.utibet.edu.cn
@@ -90,9 +90,9 @@ Tag:浙江	Name:浙江旅游职业学院	Domain:www.tczj.net
 Tag:浙江	Name:浙江经济职业技术学院	Domain:www.zjtie.edu.cn
 Tag:浙江	Name:浙江同济科技职业学院	Domain:www.zjtongji.edu.cn
 Tag:浙江	Name:浙江邮电职业技术学院	Domain:www.zptc.cn
-Tag:浙江	Name:台州科技职业学院	Domain:www.tzvcst.net
+Tag:浙江	Name:台州科技职业学院	Domain:www.tzvcst.edu.cn
 Tag:浙江	Name:湖州职业技术学院	Domain:www.hzvtc.net.cn
-Tag:浙江	Name:杭州科技职业技术学院	Domain:www.hzaspt.edu.cn
+Tag:浙江	Name:杭州科技职业技术学院	Domain:www.hzpt.edu.cn
 Tag:浙江	Name:杭州职业技术学院	Domain:www.hzvtc.edu.cn
 Tag:浙江	Name:宁波城市职业技术学院	Domain:www.nbcc.cn
 Tag:浙江	Name:浙江工贸职业技术学院	Domain:www.zjitc.net
@@ -131,7 +131,7 @@ Tag:黑龙江	Name:黑龙江科技大学	Domain:www.usth.edu.cn
 Tag:黑龙江	Name:东北石油大学	Domain:www.nepu.edu.cn
 Tag:黑龙江	Name:佳木斯大学	Domain:www.jmsu.org
 Tag:黑龙江	Name:黑龙江八一农垦大学	Domain:www.byau.edu.cn
-Tag:黑龙江	Name:东北农业大学	Domain:www.neau.cn
+Tag:黑龙江	Name:东北农业大学	Domain:www.neau.edu.cn
 Tag:黑龙江	Name:东北林业大学	Domain:www.nefu.edu.cn
 Tag:黑龙江	Name:哈尔滨医科大学	Domain:www.hrbmu.edu.cn
 Tag:黑龙江	Name:黑龙江中医药大学	Domain:www.hljucm.net
@@ -162,7 +162,7 @@ Tag:黑龙江	Name:哈尔滨华德学院	Domain:www.hhdu.edu.cn
 Tag:黑龙江	Name:黑河学院	Domain:www.hhhxy.cn
 Tag:黑龙江	Name:哈尔滨音乐学院	Domain:www.hrbcm.edu.cn
 Tag:广西	Name:广西师范大学漓江学院	Domain:www.gxljcollege.cn
-Tag:广西	Name:桂林电子科技大学信息科技学院	Domain:iit.guet.edu.cn
+Tag:广西	Name:桂林电子科技大学信息科技学院	Domain:www.guit.edu.cn
 Tag:广西	Name:广西科技大学鹿山学院	Domain:www.lzls.gxut.edu.cn
 Tag:广西	Name:广西师范学院师园学院	Domain:www.gxsy.edu.cn
 Tag:广西	Name:广西民族大学相思湖学院	Domain:www.xshxy.cn
@@ -222,7 +222,7 @@ Tag:河北	Name:河北地质大学华信学院	Domain:www.sjzuehx.cn
 Tag:河北	Name:华北理工大学轻工学院	Domain:www.qgxy.cn
 Tag:广东	Name:顺德职业技术学院	Domain:www.sdpt.com.cn
 Tag:广东	Name:广东轻工职业技术学院	Domain:www.gdqy.edu.cn
-Tag:广东	Name:广东交通职业技术学院	Domain:a1.gdcp.cn
+Tag:广东	Name:广东交通职业技术学院	Domain:www.gdcp.cn
 Tag:广东	Name:广东水利电力职业技术学院	Domain:www.gdsdxy.cn
 Tag:广东	Name:潮汕职业技术学院	Domain:www.chaoshan.cn
 Tag:广东	Name:深圳职业技术学院	Domain:www.szpt.edu.cn
@@ -301,7 +301,7 @@ Tag:河南	Name:新乡医学院	Domain:www.xxmu.edu.cn
 Tag:河南	Name:信阳师范学院	Domain:www.xytc.edu.cn
 Tag:河南	Name:周口师范学院	Domain:www.zknu.edu.cn
 Tag:河南	Name:洛阳师范学院	Domain:www.lynu.cn
-Tag:河南	Name:商丘师范学院	Domain:www.sqnc.edu.cn
+Tag:河南	Name:商丘师范学院	Domain:www.sqnu.edu.cn
 Tag:河南	Name:南阳师范学院	Domain:www.nynu.edu.cn
 Tag:河南	Name:安阳师范学院	Domain:www.aynu.edu.cn
 Tag:河南	Name:郑州师范学院	Domain:www.zztc.com.cn
@@ -323,10 +323,10 @@ Tag:河南	Name:郑州工程技术学院	Domain:www.zhzhu.edu.cn
 Tag:河南	Name:河南工学院	Domain:www.hait.edu.cn
 Tag:河南	Name:河南财政金融学院	Domain:www.hacz.edu.cn
 Tag:河南	Name:郑州工业应用技术学院	Domain:www.zzhxxy.com
-Tag:河南	Name:郑州财经学院	Domain:www.zzjm.edu.cn
+Tag:河南	Name:郑州财经学院	Domain:www.zzife.edu.cn
 Tag:河南	Name:黄河交通学院	Domain:www.zjtu.edu.cn
 Tag:河南	Name:信阳学院	Domain:www.xyu.edu.cn
-Tag:河南	Name:郑州工商学院	Domain:www.wanfang.edu.cn
+Tag:河南	Name:郑州工商学院	Domain:www.ztbu.edu.cn
 Tag:河南	Name:平顶山教育学院	Domain:www.pdsjyxy.com
 Tag:河南	Name:河南省广播电视大学	Domain:www.open.ha.cn
 Tag:安徽	Name:安徽大学江淮学院	Domain:www.ahujhc.cn
@@ -584,7 +584,7 @@ Tag:广东	Name:汕头大学	Domain:www.stu.edu.cn
 Tag:广东	Name:华南理工大学	Domain:www.scut.edu.cn
 Tag:广东	Name:华南农业大学	Domain:www.scau.edu.cn
 Tag:广东	Name:广东海洋大学	Domain:www.gdou.edu.cn
-Tag:广东	Name:广州医科大学	Domain:new.gzhmu.edu.cn
+Tag:广东	Name:广州医科大学	Domain:www.gzhmu.edu.cn
 Tag:广东	Name:广东医科大学	Domain:www.gdmu.edu.cn
 Tag:广东	Name:广州中医药大学	Domain:www.gzucm.edu.cn
 Tag:广东	Name:广东药科大学	Domain:www.gdpu.edu.cn
@@ -608,7 +608,7 @@ Tag:广东	Name:广东警官学院	Domain:www.gdppla.edu.cn
 Tag:广东	Name:仲恺农业工程学院	Domain:www.zhku.edu.cn
 Tag:广东	Name:五邑大学	Domain:www.wyu.edu.cn
 Tag:广东	Name:广东金融学院	Domain:www.gduf.edu.cn
-Tag:广东	Name:广东石油化工学院	Domain:www.gdpa.edu.cn
+Tag:广东	Name:广东石油化工学院	Domain:www.gdupt.edu.cn
 Tag:广东	Name:东莞理工学院	Domain:www.dgut.edu.cn
 Tag:广东	Name:广东工业大学	Domain:www.gdut.edu.cn
 Tag:广东	Name:广东外语外贸大学	Domain:www.gdufs.edu.cn
@@ -665,7 +665,7 @@ Tag:陕西	Name:西安思源学院	Domain:www.xasyu.cn
 Tag:陕西	Name:陕西国际商贸学院	Domain:www.csiic.com
 Tag:陕西	Name:陕西服装工程学院	Domain:www.sxfu.org
 Tag:陕西	Name:西安交通工程学院	Domain:www.xjgyedu.cn
-Tag:陕西	Name:陕西学前师范学院	Domain:www.snie.edu.cn
+Tag:陕西	Name:陕西学前师范学院	Domain:www.snsy.edu.cn
 Tag:辽宁	Name:大连理工大学	Domain:www.dlut.edu.cn
 Tag:辽宁	Name:东北大学	Domain:www.neu.edu.cn
 Tag:辽宁	Name:大连海事大学	Domain:www.dlmu.edu.cn
@@ -694,7 +694,6 @@ Tag:辽宁	Name:辽宁师范大学	Domain:www.lnnu.edu.cn
 Tag:辽宁	Name:沈阳师范大学	Domain:www.synu.edu.cn
 Tag:辽宁	Name:渤海大学	Domain:www.bhu.edu.cn
 Tag:辽宁	Name:东北财经大学	Domain:www.dufe.edu.cn
-Tag:辽宁	Name:沈阳工程学院	Domain:www.sie.edu.cn
 Tag:辽宁	Name:辽宁科技学院	Domain:www.lnist.edu.cn
 Tag:辽宁	Name:大连东软信息学院	Domain:www.neusoft.edu.cn
 Tag:辽宁	Name:锦州医科大学	Domain:www.lnmu.edu.cn
@@ -710,8 +709,8 @@ Tag:辽宁	Name:辽东学院	Domain:www.ldxy.cn
 Tag:辽宁	Name:辽宁对外经贸学院	Domain:www.luibe.edu.cn
 Tag:辽宁	Name:大连科技学院	Domain:www.ieidjtu.edu.cn
 Tag:辽宁	Name:营口理工学院	Domain:www.yku.edu.cn
-Tag:辽宁	Name:沈阳工学院	Domain:www.syyyy.com.cn
-Tag:辽宁	Name:大连财经学院	Domain:www.kingbridge.net
+Tag:辽宁	Name:沈阳工学院	Domain:www.situ.edu.cn
+Tag:辽宁	Name:大连财经学院	Domain:www.dlufe.edu.cn
 Tag:辽宁	Name:沈阳城市学院	Domain:www.sycu.cn
 Tag:辽宁	Name:沈阳城市建设学院	Domain:www.syucu.cn
 Tag:辽宁	Name:辽宁警察学院	Domain:www.lnpc.cn
@@ -790,12 +789,12 @@ Tag:黑龙江	Name:黑龙江交通职业技术学院	Domain:www.hlcp.com.cn
 Tag:黑龙江	Name:哈尔滨应用职业技术学院	Domain:www.hyyzy.com
 Tag:黑龙江	Name:黑龙江幼儿师范高等专科学校	Domain:www.hljys.com
 Tag:黑龙江	Name:哈尔滨科学技术职业学院	Domain:www.hrbkjzy.org.cn
-Tag:黑龙江	Name:黑龙江粮食职业学院	Domain:www.hljgvc.org.cn
+Tag:黑龙江	Name:黑龙江生物科技职业学院	Domain:www.hljswkj.org.cn
 Tag:黑龙江	Name:佳木斯职业学院	Domain:www.jmsjs.com
 Tag:黑龙江	Name:黑龙江护理高等专科学校	Domain:www.hljhlgz.com
 Tag:黑龙江	Name:齐齐哈尔理工职业学院	Domain:www.qlgxy.com
 Tag:黑龙江	Name:哈尔滨幼儿师范高等专科学校	Domain:www.hayouzhuan.org.cn
-Tag:黑龙江	Name:黑龙江冰雪体育职业学院	Domain:www.vcws.edu.cn
+Tag:黑龙江	Name:黑龙江冰雪体育职业学院	Domain:www.vcws.org.cn
 Tag:吉林	Name:白城医学高等专科学校	Domain:www.bcyz.cn
 Tag:吉林	Name:长春汽车工业高等专科学校	Domain:www.caii.edu.cn
 Tag:吉林	Name:长春金融高等专科学校	Domain:www.cjgz.edu.cn
@@ -847,7 +846,7 @@ Tag:河南	Name:河南农业职业学院	Domain:www.hnac.com.cn
 Tag:河南	Name:济源职业技术学院	Domain:www.jyvtc.com
 Tag:河南	Name:周口科技职业学院	Domain:www.zkkjxy.net
 Tag:河南	Name:驻马店职业技术学院	Domain:www.zmdvtc.cn
-Tag:河南	Name:河南检察职业学院	Domain:www.hnjc.edu.cn
+Tag:河南	Name:河南检察职业学院	Domain:hnjc.zhiye.chaoxing.com
 Tag:河南	Name:信阳职业技术学院	Domain:www.xyvtc.edu.cn
 Tag:河南	Name:河南经贸职业学院	Domain:www.hnjmxy.cn
 Tag:河南	Name:河南工业职业技术学院	Domain:www.hnpi.cn
@@ -856,7 +855,7 @@ Tag:河南	Name:郑州电力职业技术学院	Domain:www.zzdl.com
 Tag:河南	Name:郑州旅游职业学院	Domain:www.zztrc.edu.cn
 Tag:河南	Name:河南工业贸易职业学院	Domain:www.hngm.cn
 Tag:河南	Name:河南交通职业技术学院	Domain:www.hncc.net
-Tag:河南	Name:商丘职业技术学院	Domain:www_old.sqzy.edu.cn
+Tag:河南	Name:商丘职业技术学院	Domain:www.sqzy.edu.cn
 Tag:河南	Name:许昌职业技术学院	Domain:www.xcitc.edu.cn
 Tag:河南	Name:濮阳职业技术学院	Domain:www.pyvtc.cn
 Tag:河南	Name:郑州电子信息职业技术学院	Domain:www.zyfb.com
@@ -982,7 +981,7 @@ Tag:江苏	Name:南京视觉艺术职业学院	Domain:www.niva.cn
 Tag:江苏	Name:江苏城市职业学院	Domain:www.jscvc.cn
 Tag:江苏	Name:南京城市职业学院	Domain:www.ncc.edu.cn
 Tag:江苏	Name:南京机电职业技术学院	Domain:www.nimt.cn
-Tag:江苏	Name:苏州高博软件技术职业学院	Domain:www.gist-edu.cn
+Tag:江苏	Name:苏州高博软件技术职业学院	Domain:www.gist.edu.cn
 Tag:江苏	Name:南京旅游职业学院	Domain:www.jltu.net
 Tag:江苏	Name:江苏卫生健康职业学院	Domain:www.jssmu.edu.cn
 Tag:江苏	Name:苏州信息职业技术学院	Domain:www.szitu.cn
@@ -1129,7 +1128,7 @@ Tag:内蒙古	Name:内蒙古北方职业技术学院	Domain:www.nmbfxy.com
 Tag:内蒙古	Name:内蒙古交通职业技术学院	Domain:www.nmjtzy.com
 Tag:内蒙古	Name:内蒙古商贸职业学院	Domain:www.imvcc.com
 Tag:内蒙古	Name:乌海职业技术学院	Domain:www.whvtc.net
-Tag:内蒙古	Name:呼和浩特职业学院	Domain:www.hhvc.net.cn
+Tag:内蒙古	Name:呼和浩特职业学院	Domain:www.hhvc.edu.cn
 Tag:内蒙古	Name:内蒙古经贸外语职业学院	Domain:www.nmgjwy.com
 Tag:内蒙古	Name:内蒙古电子信息职业技术学院	Domain:www.imeic.cn
 Tag:内蒙古	Name:科尔沁艺术职业学院	Domain:www.keqysxy.com.cn
@@ -1342,7 +1341,7 @@ Tag:辽宁	Name:抚顺职业技术学院	Domain:www.fvti.com
 Tag:辽宁	Name:辽宁金融职业学院	Domain:www.lnfvc.cn
 Tag:辽宁	Name:辽宁石化职业技术学院	Domain:www.lnpc.edu.cn
 Tag:辽宁	Name:辽宁经济职业技术学院	Domain:www.lnemci.com
-Tag:辽宁	Name:辽宁建筑职业学院	Domain:lnjzxy.com
+Tag:辽宁	Name:辽宁建筑职业学院	Domain:www.lnjzxy.com
 Tag:辽宁	Name:辽宁现代服务职业技术学院	Domain:www.lnxdfwxy.com
 Tag:辽宁	Name:辽宁广告职业学院	Domain:www.ggxy.com
 Tag:辽宁	Name:辽宁装备制造职业技术学院	Domain:zy.ltcem.com
@@ -1424,7 +1423,6 @@ Tag:贵州	Name:黔东南民族职业技术学院	Domain:www.qdnpt.com
 Tag:贵州	Name:黔南民族职业技术学院	Domain:www.qnzy.net
 Tag:贵州	Name:遵义职业技术学院	Domain:www.zyzy.edu.cn
 Tag:贵州	Name:贵州城市职业学院	Domain:www.gzcsxy.cn
-Tag:贵州	Name:贵州工业职业技术学院	Domain:www.gzky.edu.cn
 Tag:贵州	Name:黔西南民族职业技术学院	Domain:www.qxnvc.edu.cn
 Tag:贵州	Name:贵州轻工职业技术学院	Domain:www.gzqy.cn
 Tag:贵州	Name:遵义医药高等专科学校	Domain:www.zunyiyizhuan.com
@@ -1455,7 +1453,7 @@ Tag:四川	Name:四川科技职工大学	Domain:www.sckzd.com
 Tag:四川	Name:中国工程物理研究院职工工学院	Domain:www.caepit.net
 Tag:四川	Name:四川核工业职工大学	Domain:www.scnies.com
 Tag:四川	Name:第五冶金建设公司职工大学	Domain:www.zgwydxzb.com
-Tag:四川	Name:广元职工医学院	Domain:www.gyzgyxy.com
+Tag:四川	Name:广元职工医学院	Domain:www.gyzgyxy.cn
 Tag:四川	Name:四川广播电视大学	Domain:www.scrtvu.net
 Tag:四川	Name:成都市职工大学	Domain:www.cdszgdx.com
 Tag:四川	Name:成都广播电视大学	Domain:www.cdrtvu.com
@@ -1529,7 +1527,7 @@ Tag:北京	Name:北京舞蹈学院	Domain:www.bda.edu.cn
 Tag:北京	Name:中国科学院大学	Domain:www.ucas.ac.cn
 Tag:北京	Name:北京吉利学院(民办）	Domain:www.bgu.edu.cn
 Tag:海南	Name:海南大学	Domain:www.hainu.edu.cn
-Tag:海南	Name:海南热带海洋学院	Domain:www.qzu.edu.cn
+Tag:海南	Name:海南热带海洋学院	Domain:www.hntou.edu.cn
 Tag:海南	Name:海南师范大学	Domain:www.hainnu.edu.cn
 Tag:海南	Name:海南医学院	Domain:www.hainmc.edu.cn
 Tag:海南	Name:海口经济学院	Domain:www.hkc.edu.cn
@@ -1590,7 +1588,6 @@ Tag:四川	Name:四川护理职业学院	Domain:cnsnvc.org
 Tag:四川	Name:成都工业职业技术学院	Domain:www.cdivtc.com
 Tag:四川	Name:四川西南航空职业学院	Domain:www.xnhkxy.edu.cn
 Tag:四川	Name:成都工贸职业技术学院	Domain:www.cdgmxy.com
-Tag:四川	Name:四川应用技术职业学院	Domain:www.sccas.edu.cn
 Tag:浙江	Name:浙江大学	Domain:www.zju.edu.cn
 Tag:浙江	Name:宁波大学	Domain:www.nbu.edu.cn
 Tag:浙江	Name:浙江工业大学	Domain:www.zjut.edu.cn
@@ -1601,7 +1598,7 @@ Tag:浙江	Name:浙江中医药大学	Domain:www.zjtcm.net
 Tag:浙江	Name:浙江师范大学	Domain:www.zjnu.edu.cn
 Tag:浙江	Name:杭州师范大学	Domain:www.hznu.edu.cn
 Tag:浙江	Name:浙江工商大学	Domain:www.hzic.edu.cn
-Tag:浙江	Name:宁波诺丁汉大学	Domain:www.nottingham.edu.cncn
+Tag:浙江	Name:宁波诺丁汉大学	Domain:www.nottingham.edu.cn
 Tag:浙江	Name:温州大学	Domain:www.wzu.edu.cn
 Tag:浙江	Name:宁波大红鹰学院	Domain:www.nbdhyu.edu.cn
 Tag:浙江	Name:浙江越秀外国语学院	Domain:www.yxc.cn
@@ -1675,7 +1672,7 @@ Tag:内蒙古	Name:包头市职工大学	Domain:www.dxscyjy.org.cn
 Tag:内蒙古	Name:内蒙古自治区广播电视大学	Domain:www.imrtvu.edu.cn
 Tag:西藏	Name:拉萨师范高等专科学校	Domain:www.xzlssf.org
 Tag:西藏	Name:西藏职业技术学院	Domain:www.xzgzy.cn
-Tag:河南	Name:河南大学民生学院	Domain:minsheng.henu.edu.cn
+Tag:河南	Name:河南大学民生学院	Domain:www.humc.edu.cn
 Tag:河南	Name:中原工学院信息商务学院	Domain:www.zcib.edu.cn
 Tag:河南	Name:河南师范大学新联学院	Domain:www.xlxy.edu.cn
 Tag:河南	Name:新乡医学院三全学院	Domain:www.sqmc.edu.cn
@@ -1687,7 +1684,7 @@ Tag:山东	Name:青岛科技大学	Domain:www.qust.edu.cn
 Tag:山东	Name:济南大学	Domain:www.ujn.edu.cn
 Tag:山东	Name:青岛理工大学	Domain:www.qtech.edu.cn
 Tag:山东	Name:山东建筑大学	Domain:www.sdjzu.edu.cn
-Tag:山东	Name:齐鲁工业大学	Domain:www.sdili.edu.cn
+Tag:山东	Name:齐鲁工业大学	Domain:www.qlu.edu.cn
 Tag:山东	Name:山东理工大学	Domain:www.sdut.edu.cn
 Tag:山东	Name:山东农业大学	Domain:www.sdau.edu.cn
 Tag:山东	Name:青岛农业大学	Domain:www.qau.edu.cn
@@ -1791,7 +1788,7 @@ Tag:四川	Name:四川师范大学	Domain:www.sicnu.edu.cn
 Tag:四川	Name:西华师范大学	Domain:www.cwnu.edu.cn
 Tag:四川	Name:绵阳师范学院	Domain:www.mnu.cn
 Tag:四川	Name:内江师范学院	Domain:www.njtc.edu.cn
-Tag:四川	Name:宜宾学院	Domain:www.yibinu.cn
+Tag:四川	Name:宜宾学院	Domain:www.yibinu.edu.cn
 Tag:四川	Name:四川文理学院	Domain:www.sasu.edu.cn
 Tag:四川	Name:阿坝师范学院	Domain:www.abtc.edu.cn
 Tag:四川	Name:乐山师范学院	Domain:www.lstc.edu.cn
@@ -1829,7 +1826,7 @@ Tag:福建	Name:闽南理工学院	Domain:www.mnust.cn
 Tag:福建	Name:福建工程学院	Domain:www.fjut.edu.cn
 Tag:福建	Name:泉州师范学院	Domain:www.qztc.edu.cn
 Tag:福建	Name:闽南师范大学	Domain:www.mnnu.edu.cn
-Tag:福建	Name:宁德师范学院	Domain:www.ndsy.cn
+Tag:福建	Name:宁德师范学院	Domain:www.ndnu.edu.cn
 Tag:福建	Name:福建警察学院	Domain:www.fjpsc.edu.cn
 Tag:福建	Name:龙岩学院	Domain:www.lyun.edu.cn
 Tag:福建	Name:三明学院	Domain:www.fjsmu.edu.cn
@@ -1952,7 +1949,7 @@ Tag:湖北	Name:湖北商贸学院	Domain:www.hugsmxy.com
 Tag:湖北	Name:湖北汽车工业学院科技学院	Domain:kyzb.huat.edu.cn
 Tag:湖北	Name:湖北医药学院药护学院	Domain:yhgj.hbmu.edu.cn
 Tag:湖北	Name:湖北民族学院科技学院	Domain:www.hbmykjxy.cn
-Tag:湖北	Name:湖北经济学院法商学院	Domain:fsxy.hbue.edu.cn
+Tag:湖北	Name:湖北经济学院法商学院	Domain:www.hbue.edu.cn
 Tag:湖北	Name:武汉体育学院体育科技学院	Domain:kjxy.whsu.edu.cn
 Tag:湖北	Name:湖北文理学院理工学院	Domain:www.hbasstu.net
 Tag:湖北	Name:湖北工程学院新技术学院	Domain:www.hbeutc.cn
@@ -2080,7 +2077,7 @@ Tag:河北	Name:唐山师范学院	Domain:www.tstc.edu.cn
 Tag:河北	Name:河北科技师范学院	Domain:www.hevttc.edu.cn
 Tag:河北	Name:沧州师范学院	Domain:www.caztc.edu.cn
 Tag:河北	Name:邢台学院	Domain:www.xttc.edu.cn
-Tag:河北	Name:河北金融学院	Domain:www.hbcf.edu.cn
+Tag:河北	Name:河北金融学院	Domain:www.hbfu.edu.cn
 Tag:河北	Name:河北体育学院	Domain:www.hepec.edu.cn
 Tag:河北	Name:河北传媒学院	Domain:www.hebic.cn
 Tag:河北	Name:保定学院	Domain:www.bdu.edu.cn
@@ -2116,7 +2113,7 @@ Tag:黑龙江	Name:绥化市教育学院	Domain:www.shjyxy.com
 Tag:黑龙江	Name:牡丹江市教育学院	Domain:www.mdjjyj.gov.cn
 Tag:黑龙江	Name:黑龙江省广播电视大学	Domain:www.hljrtvu.org.cn
 Tag:黑龙江	Name:黑龙江省社会科学院职工大学	Domain:www.hskzd.org.cn
-Tag:黑龙江	Name:哈尔滨市职工医学院	Domain:www.hebszgyxy.org.cn
+Tag:黑龙江	Name:哈尔滨市职工医学院	Domain:www.hrbzgyxy.com.cn
 Tag:黑龙江	Name:哈尔滨市广播电视大学	Domain:www.hrbou.org.cn
 Tag:广西	Name:广西大学	Domain:www.gxu.edu.cn
 Tag:广西	Name:桂林电子科技大学	Domain:www.guet.edu.cn
@@ -2190,10 +2187,9 @@ Tag:上海	Name:上海邦德职业技术学院	Domain:www.shbangde.com
 Tag:上海	Name:上海立达职业技术学院	Domain:www.lidapoly.edu.cn
 Tag:上海	Name:上海工艺美术职业学院	Domain:www.sada.edu.cn
 Tag:上海	Name:上海农林职业技术学院	Domain:www.shafc.edu.cn
-Tag:上海	Name:上海体育职业学院	Domain:www.ssi.edu.cn
 Tag:上海	Name:上海震旦职业学院	Domain:www.aurora-college.cn
 Tag:上海	Name:上海海事职业技术学院	Domain:www.sma.edu.cn
-Tag:上海	Name:上海民远职业技术学院	Domain:www.min-yuan.com
+Tag:上海	Name:上海民远职业技术学院	Domain:www.shmy.edu.cn
 Tag:上海	Name:上海工会管理职业学院	Domain:www.shghxyedu.net
 Tag:上海	Name:上海工商外国语职业学院	Domain:www.sicfl.edu.cn
 Tag:上海	Name:上海交通职业技术学院	Domain:www.scp.edu.cn
@@ -2202,7 +2198,6 @@ Tag:上海	Name:上海行健职业学院	Domain:www.shxj.cn
 Tag:上海	Name:上海电子信息职业技术学院	Domain:www.stiei.edu.cn
 Tag:上海	Name:上海欧华职业技术学院	Domain:www.shohzyxy.com
 Tag:上海	Name:上海工商职业技术学院	Domain:www.sicp.sh.cn
-Tag:上海	Name:上海民航职业技术学院	Domain:www.shcac.edu.cn
 Tag:北京	Name:北京青年政治学院	Domain:www.bjypc.edu.cn
 Tag:北京	Name:北京电子科技职业学院	Domain:www.dky.bjedu.cn
 Tag:北京	Name:北京信息职业技术学院	Domain:www.bitc.edu.cn
@@ -2233,7 +2228,7 @@ Tag:贵州	Name:贵州大学科技学院	Domain:cst.gzu.edu.cn
 Tag:贵州	Name:贵州大学明德学院	Domain:mdc.gzu.edu.cn
 Tag:贵州	Name:贵州师范大学求是学院	Domain:qsxy.gznu.edu.cn
 Tag:贵州	Name:遵义医学院医学与科技学院	Domain:mts.zmc.edu.cn
-Tag:贵州	Name:贵州医科大学神奇民族医药学院	Domain:sqxy.gmc.edu.cn
+Tag:贵州	Name:贵州医科大学神奇民族医药学院	Domain:www.gysqxy.cn
 Tag:安徽	Name:合肥市职工大学	Domain:www.hfzgdx.com
 Tag:安徽	Name:安徽经济管理干部学院	Domain:www.ahsa.edu.cn
 Tag:安徽	Name:安徽广播电视大学	Domain:www.ahtvu.ah.cn
@@ -2461,14 +2456,13 @@ Tag:甘肃	Name:临夏现代职业学院	Domain:www.lxxdzy.com
 Tag:甘肃	Name:甘肃能源化工职业学院	Domain:www.gsnyedu.cn
 Tag:甘肃	Name:兰州现代职业学院	Domain:www.lzmvc.com
 Tag:甘肃	Name:平凉职业技术学院	Domain:www.plvtc.cn
-Tag:甘肃	Name:甘肃财贸职业学院	Domain:www.gscmxy.com
 Tag:福建	Name:泉州医学高等专科学校	Domain:www.qzygz.com
 Tag:福建	Name:福建华南女子职业学院	Domain:www.hnwomen.com.cn
 Tag:福建	Name:福建交通职业技术学院	Domain:www.fjcpc.edu.cn
 Tag:福建	Name:泉州纺织服装职业学院	Domain:www.qzfzfz.com
 Tag:福建	Name:泉州幼儿师范高等专科学校	Domain:www.qzys.net
 Tag:福建	Name:福州英华职业学院	Domain:www.fzacc.com
-Tag:福建	Name:漳州职业技术学院	Domain:www.fjzzy.org
+Tag:福建	Name:漳州职业技术学院	Domain:www.fjzzit.edu.cn
 Tag:福建	Name:黎明职业大学	Domain:www.lmu.cn
 Tag:福建	Name:厦门软件职业技术学院	Domain:www.xmist.edu.cn
 Tag:福建	Name:厦门城市职业学院	Domain:www.xmcu.cn

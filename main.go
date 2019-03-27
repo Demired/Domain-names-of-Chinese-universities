@@ -11,9 +11,10 @@ import (
 )
 
 type item struct {
-	Domain string `json:"domain"`
-	Tag    string `json:"tag"`
-	Name   string `json:"name"`
+	Domain   string `json:"domain"`
+	Tag      string `json:"tag"`
+	Name     string `json:"name"`
+	Classify string `json:"classify"`
 }
 
 var (
@@ -61,9 +62,10 @@ func txt2json() {
 		l := strings.Split(s, "\t")
 		if len(l) > 2 {
 			tempItem := item{
-				Tag:    strings.TrimLeft(l[0], "Tag:"),
-				Name:   strings.TrimLeft(l[1], "Name:"),
-				Domain: strings.TrimLeft(l[2], "Domain:"),
+				Tag:      strings.TrimPrefix(l[0], "Tag:"),
+				Name:     strings.TrimPrefix(l[1], "Name:"),
+				Domain:   strings.TrimPrefix(l[2], "Domain:"),
+				Classify: "university",
 			}
 			if _, ok := tempMap[tempItem.Domain]; !ok {
 				tempMap[tempItem.Domain] = struct{}{}

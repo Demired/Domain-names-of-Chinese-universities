@@ -24,11 +24,9 @@ var (
 
 func main() {
 	kingpin.Parse()
-
 	if *compile {
 		txt2json()
 	}
-
 	f, err := os.Open(*jPath)
 	if err != nil {
 		panic(err)
@@ -58,17 +56,23 @@ func txt2json() {
 	}
 	var items []item
 	var str = strings.Split(string(b), "\n")
+	var tempMap = map[string]struct{}{}
 	for _, s := range str {
 		l := strings.Split(s, "\t")
 		if len(l) > 2 {
-			items = append(items, item{
-				Tag:    strings.Trim(strings.TrimLeft(l[0], "Tag:"), " "),
-				Name:   strings.Trim(strings.TrimLeft(l[1], "Name:"), " "),
-				Domain: strings.Trim(strings.TrimLeft(l[2], "Domain:"), " "),
-			})
+			tempItem := item{
+				Tag:    strings.TrimLeft(l[0], "Tag:"),
+				Name:   strings.TrimLeft(l[1], "Name:"),
+				Domain: strings.TrimLeft(l[2], "Domain:"),
+			}
+			if _, ok := tempMap[tempItem.Domain]; !ok {
+				tempMap[tempItem.Domain] = struct{}{}
+			} else {
+				fmt.Printf("Repeat Item %s\n", s)
+			}
+			items = append(items, tempItem)
 		} else {
-			fmt.Println(len(l))
-			fmt.Printf("Invalid format %s\n", s)
+			fmt.Printf("Invalid Format %s\n", s)
 		}
 	}
 	sj, _ := json.Marshal(&items)

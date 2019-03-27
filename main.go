@@ -67,7 +67,8 @@ func txt2json() {
 				Domain: strings.Trim(strings.TrimLeft(l[2], "Domain:"), " "),
 			})
 		} else {
-			fmt.Printf("Invalid format %s", s)
+			fmt.Println(len(l))
+			fmt.Printf("Invalid format %s\n", s)
 		}
 	}
 	sj, _ := json.Marshal(&items)
